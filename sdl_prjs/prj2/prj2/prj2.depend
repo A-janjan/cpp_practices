@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718393194 source:/home/davinci/Projects/cpp_practices/sdl_prjs/prj2/02_getting_an_image_on_the_screen.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718397070 source:/home/davinci/Projects/cpp_practices/sdl_prjs/prj3/03_event_driven_programming.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+
